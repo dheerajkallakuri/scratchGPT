@@ -50,6 +50,8 @@ The repository contains the following files:
 
 ## Results
 - `v2.py` demonstrates a significant improvement in validation loss after training for 5000 iterations. The loss drops from 4.4 to 1.8, making it a suitable example of how transformers improve over simple bigram models.
+<img width="724" alt="Screenshot 2024-09-06 at 5 58 56 PM" src="https://github.com/user-attachments/assets/4aae7f46-806e-49a8-bb56-c6bd65ab1100">
+
   
 - The `gpt2.py` model is designed for more extensive experimentation with GPT-like architectures and will require considerable hardware resources to train effectively.
 
