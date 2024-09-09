@@ -1,4 +1,4 @@
-# scratchGPT: Decoder-only Transformer
+# Scratch GPT: Decoder-only Transformer
 
 This project demonstrates the implementation of a GPT-like language model from scratch, based on the tutorial series "Let's build GPT: from scratch, in code, spelled out" by Andrej Karpathy. The repository contains a few key files that illustrate different stages of model development, focusing on the decoder-only transformer architecture.
 
